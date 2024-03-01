@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\LazyInitialization\bin\Debug\net8.0\LazyInitialization.exe
+C:\Users\48571\source\repos\LazyInitialization\bin\Debug\net8.0\LazyInitialization.deps.json
+C:\Users\48571\source\repos\LazyInitialization\bin\Debug\net8.0\LazyInitialization.runtimeconfig.json
+C:\Users\48571\source\repos\LazyInitialization\bin\Debug\net8.0\LazyInitialization.dll
+C:\Users\48571\source\repos\LazyInitialization\bin\Debug\net8.0\LazyInitialization.pdb
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.AssemblyInfo.cs
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.dll
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\refint\LazyInitialization.dll
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.pdb
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\LazyInitialization.genruntimeconfig.cache
+C:\Users\48571\source\repos\LazyInitialization\obj\Debug\net8.0\ref\LazyInitialization.dll
